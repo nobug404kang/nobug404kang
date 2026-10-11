@@ -28,10 +28,8 @@
 ### Research Interests
 
 - Intelligent Robotic Systems
-- Autonomous Navigation
-- Visual Perception and 3D Reconstruction
-- Robot Manipulation and Motion Planning
-- Deep Reinforcement Learning
+- Robotic Manipulation and Motion Planning
+
 
 ### GitHub Activity
 
